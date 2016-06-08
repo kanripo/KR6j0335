@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:26.878420
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:53
 #+TITLE: 勝初瑜伽儀軌真言
 #+PROPERTY: CBETA_ID T20n1120B
 #+PROPERTY: ID KR6j0335
